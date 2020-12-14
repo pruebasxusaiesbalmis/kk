@@ -1,0 +1,33 @@
+ Programa para gestionar una base de datos de edades. El programa
+constará de un menú con cinco opciones, más abajo especificadas. 1ª
+Introducir nombres, que se guardarán en una tabla dentada. 2ª
+Introducir edades, que se guardarán en un array unidimensional de
+enteros. Teniendo encuenta que cada persona se jubila a los 65
+años, implementar las restantes opciones:
+El programa constará de seis métodos IntroducirNombres,
+IntroducirEdad, PersonaMayor, NumeroPersonasJubiladas MostrarDatos,
+y OrdenarPorNombre.
+Introducir Nombre Permitirá introducir el nombre de n personas
+(n se habrá pedido anterioremente al usuario).(0,5pto.)
+Introducir Edad Permitirá introducir las edades de las anteriores
+personas (0,5pto.)
+Jubila Llamará a un método que nos devolverá el número de
+personas jubiladas. (0,5pto.)
+Mayor Llamará a un método que mostrará el nombre y edad de la
+persona de mayor edad. (1pto.)
+MostrarDatos Mostrará los datos de los arrays, pero previamente
+se habrán ordenado llamando al método correspondiente.(1,5pto.)
+Bucle que repita el programa hasta opción 6 (0,5pto.)
+
+
+Haz un programa con un método MediaDiagonales que reciba como
+argumento una matriz cuadrada de 4x4 generada aleatoriamente en la
+Main, y calcule y muestre la matriz y la media de los elementos de sus
+diagonales. (1,5pto.)
+
+2 1 3 4         
+2 2 5 6
+2 1 3 5
+2 5 8 7
+2+1+5+4=12 12/4=3
+2+2+3+7=14 14/4=3.5
